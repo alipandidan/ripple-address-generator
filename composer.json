@@ -1,0 +1,17 @@
+{
+    "name": "pandidan/ripple-address-generator",
+    "description": "Create Ripple base58 address from public key",
+    "type": "library",
+    "require": {
+        "bitwasp/buffertools": "^0.5.6",
+        "simplito/elliptic-php": "^1.0",
+        "tuupola/base58": "^2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ali Pandidan",
+            "email": "pandidanx@gmail.com"
+        }
+    ]
+}
